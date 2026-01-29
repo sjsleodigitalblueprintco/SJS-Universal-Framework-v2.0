@@ -1,2 +1,7 @@
-# SJS-Universal-Framework-v2.0
-FULL SITE CODE SET** using my**SJS system**, laid out exactly how I did it in WordPress.  
+#"SJS Universal Framework v2.0 - Deployment Ready"
+
+Architecture: Modular HTML5 / Hardened CSS Grid.
+
+Security: Compatible with SJS Private Vault Middleware (Kill Switch Enabled).
+
+Performance: Zero-bloat, plugin-free infrastructure for high-value hospitality and retail assets.
