@@ -1,7 +1,15 @@
-#"SJS Universal Framework v2.0 - Deployment Ready"
+# 🛡️ SJS Universal Framework | Enterprise Build
 
-Architecture: Modular HTML5 / Hardened CSS Grid.
+This repository contains the **Front-End Architecture** for the SJS Universal System. 
+It is designed for rapid deployment (3+ builds per month) and high-performance scalability.
 
-Security: Compatible with SJS Private Vault Middleware (Kill Switch Enabled).
+### 🚀 Technical Specs
+- **CSS Architecture:** Proprietary 12-column grid "Master Shell."
+- **Performance:** Zero-bloat, plugin-free HTML5 infrastructure.
+- **Security:** Integrated with the **SJS Private Vault** for remote licensing.
 
-Performance: Zero-bloat, plugin-free infrastructure for high-value hospitality and retail assets.
+### 🔐 Licensed Content
+The **Security Core**, **Image Protection Layers**, and **Node.js Kill Switch** are kept in a 
+private, hardened environment to protect intellectual property and site secrets.
+
+*Contact SJS for licensing and deployment inquiries.*
